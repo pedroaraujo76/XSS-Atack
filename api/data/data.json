@@ -1,0 +1,1 @@
+[{"name":"Pedro ","comment":"Esse é um comentário!"},{"name":"Pedro","comment":"<strong> Esse </strong> é um comentário!"},{"name":"Pedro","comment":"<button onclick=\"Alert Hackeado\">Click me</button>`"},{"name":"Pedro","comment":"<div onmouseover=\"console.log('injetado!')\" style=\"width:100vw; height: 100vh; color:transparent\"> </div>`"}]
